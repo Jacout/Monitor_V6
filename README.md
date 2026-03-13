@@ -3,10 +3,10 @@
 Herramienta en C++ para Linux que monitorea cambios en IP/MAC, captura tráfico relevante
 y clasifica eventos anómalos. Genera un reporte JSON con todos los eventos detectados.
 ## Integrantes del equipo
-- Nombre 1 — Módulo Identidad
-- Nombre 2 — Módulo Sniffer
-- Nombre 3 — Módulo Análisis
-- Nombre 4 — Módulo JSONGen
+- Matthew Rosas Lailson — SuperCapish — Módulo Identidad
+- Jacob Misael Rodriguez Morales — Jacout — Módulo Sniffer
+- Cruz Eduardo Patiño Zuñiga — PapiCruz — Módulo Análisis
+- Jahir Guadalupe Salazar Esparza — Naizard — Módulo JSONGen
 ## Requisitos
 - Ubuntu/Debian
 - g++ (C++17)
